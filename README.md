@@ -5,3 +5,5 @@ Raspberry Pi based system with DHT11 temperature and humidity sensor, Fire senso
 
 .csv file uploaded automatically on Google Drive.
 Change google drive authentication and API for it to work.
+
+<p><img src="disaster2.jpg" />
